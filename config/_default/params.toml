@@ -1,6 +1,6 @@
 logoText = "Zzo"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "tandt53.dev is a personal blog for automation test discussion"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -60,14 +60,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "DO THE TAN"
+email = "dothetan.040490@gmail.com"
+whoami = "Automation QC Lead"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Hanoi, Vietnam"
+organization = "One Mount Group"
+link = "https://tandt53.dev"
 
 # sidebar
 enableBio = true
@@ -161,11 +161,11 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:dothetan.040490@email.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = "http://facebook.com/tandt53.dev"
+  twitter = "https://twitter.com/tandt53"
+  github = "https://github.com/tandt53"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
