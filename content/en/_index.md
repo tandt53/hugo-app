@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - TANDT53
     subtitle:
-      - The world’s fastest framework for building websites
+      - Automation QC Lead
     titleColor: 
     titleShadow: true
     titleFontSize: 44
