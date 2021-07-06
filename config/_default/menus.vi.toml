@@ -1,0 +1,29 @@
+[[main]]
+  identifier = "about"
+  name = "Giới thiệu"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "java"
+  name = "Java"
+  url = "java"
+  weight = 2
+
+[[main]]
+  identifier = "selenium"
+  name = "Selenium"
+  url = "selenium"
+  weight = 3
+
+[[main]]
+  identifier = "appium"
+  name = "Appium"
+  url = "appium"
+  weight = 4
+
+[[main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "posts"
+  weight = 5

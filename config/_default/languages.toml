@@ -5,9 +5,9 @@
   languagedir = "ltr"
   contentdir = "content/en"
 
-[ko]
+[vi]
   title = "tandt53"
-  languageName = "한국어"
+  languageName = "Tiếng Việt"
   weight = 2
   languagedir = "ltr"
-  contentdir = "content/ko"
+  contentdir = "content/vi"

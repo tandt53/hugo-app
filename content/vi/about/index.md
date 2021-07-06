@@ -1,6 +1,6 @@
 +++
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
+title = "Giới thiệu"
+description = "Giới thiêu về tandt53"
 type = "about"
 date = "2021-07-06"
 +++
