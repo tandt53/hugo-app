@@ -163,8 +163,8 @@ commento = false
 [socialOptions]
   email = "mailto:your@email.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
+  facebook = ""
+  twitter = ""
   github = "https://github.com/zzossig/hugo-theme-zzo"
   stack-overflow = ""
   instagram = ""
