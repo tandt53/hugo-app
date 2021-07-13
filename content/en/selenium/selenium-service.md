@@ -50,7 +50,6 @@ Starting ChromeDriver 91.0.4472.101 (...) on port 29284
 ChromeDriver was started successfully.
 ```
 
-
 Let's change a little bit in our code:
 ```java
 ChromeDriverService.Builder builder = new ChromeDriverService.Builder();
@@ -78,6 +77,6 @@ ChromeDriver was started successfully.
 This time, ChromeDriver server was started on port 5353, as we set in `builder` of service. Now we understand that ChromeDriverService will be incharged of initiate ChromeDriver server using configured informations (port and driver executable file). And we can control those configuration (starting server in different port, or using different version of chromedriver) as we want.
 
 ## Summary
-From above code, we see that out test scripts will start `an driver server` (ChromeDriver server, GeckoDriver server, EdgeDriver server, SafariDriver server) whenever we call new instance of WebDriver for corresponding browser. Then, every command (click, sendKeys, getText, etc.) will be transformed from script (selenium client) to that server to interact with browser, and finaly get result.
+From above code, we see that out test scripts will start `an driver server` (ChromeDriver server, GeckoDriver server, etc.) whenever we call new instance of WebDriver for corresponding browser. Then, every command (click, sendKeys, getText, etc.) will be transformed from script (selenium client) to that server to interact with browser, and finaly get result.
 
 In next post, I will present about driver executable file (chromedriver.exe, geckodriver.exe) for more details.
