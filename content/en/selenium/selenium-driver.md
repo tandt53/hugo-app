@@ -7,9 +7,9 @@ draft: false
 
 # Introduction
 As in previous post, we discussed about Driver Service (like ChromeDriverService, FirefoxDriverService, etc.). It is to start and stop Driver Server before WebDriver initialized and after quit. So that, service needs to be configured driver executable file (via method `useDriverExecutable(File file)`). When working with selenium, you should have a driver executor for coresponding browser, like:
-- Chrome browser requires chromedriver.exe on Windows, or chromedrive on Linux and Mac.
-- Firefox browser requires geckodriver.exe on Windows, geckodriver on Linux and Mac.
-- Edge browser requires edgedriver.exe on Windows, edgedriver on Mac.
+- Chrome browser requires `chromedriver.exe` on Windows, or `chromedrive` on Linux and Mac.
+- Firefox browser requires `geckodriver.exe` on Windows, `geckodriver` on Linux and Mac.
+- Edge browser requires `edgedriver.exe` on Windows, `edgedriver` on Mac.
 
 So, what are they responsible for? Why do we need it in Selenium web automation?
 
@@ -31,8 +31,8 @@ ChromeDriver was started successfully.
 Wow, ChromeDriver server was started on port 9515. It was same with using ChromeDriverService in previous post.  
 From that, we can see that ChromeDriverService get driver executable file and it will start ChromeDriver server internally in selenium code. Then the other services(FirefoxDriverService, EdgeDriverService) do the same way to start browser Server.
 
-## Find more with --help
-Now, we will explore chromedriver by run it with parameter --help to understand more options.
+## Find more with \--help
+Now, we will explore chromedriver by run it with parameter `--help` to understand more options.
 
 ```
 $ ./chromedriver --help
@@ -67,4 +67,11 @@ ChromeDriver 91.0.4472.101 (...)
 Starting ChromeDriver 91.0.4472.101 (...) on port 5353
 ChromeDriver was started successfully.
 ```
+
+<!-- ## Selenium Driver installed by npm
+
+In some cases, you might install chromedriver or geckodriver via npm. For example, `npm i -g chromedriver`. This command will download `chromedriver` executor and put it somewhere in your machine. 
+- On Mac: /usr/local/lib/node_modules/chromedriver/bin/chromedriver
+- On Linux: 
+- On Windows: -->
 
