@@ -79,4 +79,4 @@ This time, ChromeDriver server was started on port 5353, as we set in `builder` 
 ## Summary
 From above code, we see that out test scripts will start `an driver server` (ChromeDriver server, GeckoDriver server, etc.) whenever we call new instance of WebDriver for corresponding browser. Then, every command (click, sendKeys, getText, etc.) will be transformed from script (selenium client) to that server to interact with browser, and finaly get result.
 
-In [next]({{< ref "./selenium-driver.md" >}}) post, I will present about driver executable file (chromedriver.exe, geckodriver.exe) for more details.
+In [next]({{< ref "./selenium-driver-executor.md" >}}) post, I will present about driver executable file (chromedriver.exe, geckodriver.exe) for more details.

@@ -6,7 +6,7 @@ draft: false
 ---
 
 # Introduction
-As in previous post, we discussed about Driver Service (like ChromeDriverService, FirefoxDriverService, etc.). It is to start and stop Driver Server before WebDriver initialized and after quit. So that, service needs to be configured driver executable file (via method `useDriverExecutable(File file)`). When working with selenium, you should have a driver executor for coresponding browser, like:
+As in [previous]({{< ref "./selenium-service.md" >}}) post, we discussed about Driver Service (like ChromeDriverService, FirefoxDriverService, etc.). It is to start and stop Driver Server before WebDriver initialized and after quit. So that, service needs to be configured driver executable file (via method `useDriverExecutable(File file)`). When working with selenium, you should have a driver executor for coresponding browser, like:
 - Chrome browser requires `chromedriver.exe` on Windows, or `chromedrive` on Linux and Mac.
 - Firefox browser requires `geckodriver.exe` on Windows, `geckodriver` on Linux and Mac.
 - Edge browser requires `edgedriver.exe` on Windows, `edgedriver` on Mac.
@@ -68,10 +68,15 @@ Starting ChromeDriver 91.0.4472.101 (...) on port 5353
 ChromeDriver was started successfully.
 ```
 
-<!-- ## Selenium Driver installed by npm
+## Selenium Driver installed by npm
+Normally, you would search for chromedriver on [Chromium site](https://chromedriver.chromium.org/) and download it and put it somewhere on your local machine. Some engineers use WebDriverManager to install automatically.
 
-In some cases, you might install chromedriver or geckodriver via npm. For example, `npm i -g chromedriver`. This command will download `chromedriver` executor and put it somewhere in your machine. 
-- On Mac: /usr/local/lib/node_modules/chromedriver/bin/chromedriver
-- On Linux: 
-- On Windows: -->
+In some cases, you might install chromedriver or geckodriver via node package manager (npm).  
+Command: `npm i -g chromedriver`.  
+This command will download `chromedriver` executor and put it somewhere in your machine (on Mac: `/usr/local/lib/node_modules/chromedriver/bin/chromedriver`).
+This way shows some advantages as following: 
+- chromedriver can be installed automatically by scripts.
+- Effortless version selection by command `npm i chromedriver@<version>`
+- During initializing WebDriver for Chrome, you should not need set property `System.setProperty("webdriver.chrome.driver", "/path/to/chromedriver");`
+
 

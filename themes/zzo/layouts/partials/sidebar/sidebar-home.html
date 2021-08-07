@@ -4,7 +4,7 @@
     {{ partial "sidebar/site-bio" . }}
     {{ partial "sidebar/custom-home" . }}
     {{ partial "sidebar/list/posts-by-order" . }}
-    {{ partial "service/google-adsense" . }}
+    <!-- {{ partial "service/google-adsense" . }} -->
     
     {{ if and ($.Param "itemsPerCategory") ($.Param "enableHomeSidebarTitles") }}
         {{ $filteredSections := .Site.Sections }}
