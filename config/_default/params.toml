@@ -1,5 +1,5 @@
-logoText = "tandt53"
-logoType = "short" # long, short
+# logoText = "tandt53"
+logoType = "long" # long, short
 description = "tandt53.dev is a personal blog for automation test discussion"
 custom_css = []
 custom_js = []
@@ -163,7 +163,7 @@ commento = false
 [socialOptions]
   email = "mailto:dothetan.040490@email.com"
   phone = ""
-  facebook = "http://facebook.com/tandt53.dev"
+  facebook = "https://www.facebook.com/testautodev"
   twitter = "https://twitter.com/tandt53"
   github = "https://github.com/tandt53"
   stack-overflow = ""
