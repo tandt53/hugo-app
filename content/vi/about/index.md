@@ -25,4 +25,4 @@ Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
 
 
-<a href="https://app.daily.dev/tandt53"><img src="https://api.daily.dev/devcards/6f0e245722d7472ba7e49475455b3551.png?r=nzm" width="400" alt="tandt53's Dev Card"/></a>
+<a href="https://app.daily.dev/tandt53"><img src="https://api.daily.dev/devcards/6f0e245722d7472ba7e49475455b3551.png?r=uub" width="400" alt="tandt53's Dev Card"/></a>
