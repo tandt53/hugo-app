@@ -23,7 +23,7 @@
   weight = 4
 
 [[main]]
-  identifier = "posts"
-  name = "Posts"
-  url = "posts"
+  identifier = "automation-test"
+  name = "Automation Test"
+  url = "automation-test"
   weight = 5
