@@ -23,7 +23,7 @@
   weight = 4
 
 [[main]]
-  identifier = "automation-test"
-  name = "Automation Test"
-  url = "automation-test"
+  identifier = "auto-test"
+  name = "Automation"
+  url = "auto-test"
   weight = 5

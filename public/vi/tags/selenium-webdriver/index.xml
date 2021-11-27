@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>selenium-webdriver on tandt53</title>
+    <link>https://www.tandt53.dev/vi/tags/selenium-webdriver/</link>
+    <description>Recent content in selenium-webdriver on tandt53</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <managingEditor>dothetan.040490@gmail.com (DO THE TAN)</managingEditor>
+    <webMaster>dothetan.040490@gmail.com (DO THE TAN)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 08 Jul 2021 21:55:21 +0000</lastBuildDate>
+    
+        <atom:link href="https://www.tandt53.dev/vi/tags/selenium-webdriver/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Selenium Driver Service</title>
+        <link>https://www.tandt53.dev/vi/selenium/selenium-service/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        <atom:modified>Thu, 08 Jul 2021 21:55:21 +0000</atom:modified>
+        <guid>https://www.tandt53.dev/vi/selenium/selenium-service/</guid>
+        <description>Introduction Trong bài viết này sẽ giới thiệu cách cách khác nhau để khởi tạo instance của WebDriver, giúp cho bạn hiểu rõ hơn về kiến trúc của Selenium.
+Bài viết sẽ tập trung vào các constructor của ChromeDriver:
+ Constructor không tham số: public ChromeDriver() Constructor có 1 tham số ChromeDriverService: public ChromeDriver(ChromeDriverService service)  Constructor không tham số Đầu tiên, hãy tạo một đoạn code thông thường để khởi tạo ChromeDriver:</description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>selenium</category>
+            
+          
+            
+              <category>selenium-webdriver</category>
+            
+          
+            
+              <category>driver-service</category>
+            
+          
+            
+              <category>ChromeDriverService</category>
+            
+          
+            
+              <category>FirefoxDriverService</category>
+            
+          
+            
+              <category>SafariDriverService</category>
+            
+          
+            
+              <category>EdgeDriverService</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

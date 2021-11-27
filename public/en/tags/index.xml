@@ -6,30 +6,30 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Tags on Hugo Zzo Theme</title>
-    <link>http://example.org/en/tags/</link>
-    <description>Recent content in Tags on Hugo Zzo Theme</description>
+    <title>Tags on tandt53</title>
+    <link>https://www.tandt53.dev/en/tags/</link>
+    <description>Recent content in Tags on tandt53</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>dothetan.040490@gmail.com (DO THE TAN)</managingEditor>
+    <webMaster>dothetan.040490@gmail.com (DO THE TAN)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 21:55:21 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.tandt53.dev/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>shortcode</title>
-        <link>http://example.org/en/tags/shortcode/</link>
-        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <title>ChromeDriverService</title>
+        <link>https://www.tandt53.dev/en/tags/chromedriverservice/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
         
-        <guid>http://example.org/en/tags/shortcode/</guid>
+        <guid>https://www.tandt53.dev/en/tags/chromedriverservice/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>DO THE TAN</dc:creator>
         
         
         
@@ -39,15 +39,15 @@
       </item>
       
       <item>
-        <title>css</title>
-        <link>http://example.org/en/tags/css/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <title>driver-service</title>
+        <link>https://www.tandt53.dev/en/tags/driver-service/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
         
-        <guid>http://example.org/en/tags/css/</guid>
+        <guid>https://www.tandt53.dev/en/tags/driver-service/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>DO THE TAN</dc:creator>
         
         
         
@@ -57,15 +57,15 @@
       </item>
       
       <item>
-        <title>html</title>
-        <link>http://example.org/en/tags/html/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <title>EdgeDriverService</title>
+        <link>https://www.tandt53.dev/en/tags/edgedriverservice/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
         
-        <guid>http://example.org/en/tags/html/</guid>
+        <guid>https://www.tandt53.dev/en/tags/edgedriverservice/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>DO THE TAN</dc:creator>
         
         
         
@@ -75,15 +75,15 @@
       </item>
       
       <item>
-        <title>markdown</title>
-        <link>http://example.org/en/tags/markdown/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <title>FirefoxDriverService</title>
+        <link>https://www.tandt53.dev/en/tags/firefoxdriverservice/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
         
-        <guid>http://example.org/en/tags/markdown/</guid>
+        <guid>https://www.tandt53.dev/en/tags/firefoxdriverservice/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>DO THE TAN</dc:creator>
         
         
         
@@ -93,15 +93,15 @@
       </item>
       
       <item>
-        <title>themes</title>
-        <link>http://example.org/en/tags/themes/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <title>SafariDriverService</title>
+        <link>https://www.tandt53.dev/en/tags/safaridriverservice/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
         
-        <guid>http://example.org/en/tags/themes/</guid>
+        <guid>https://www.tandt53.dev/en/tags/safaridriverservice/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>DO THE TAN</dc:creator>
         
         
         
@@ -111,15 +111,15 @@
       </item>
       
       <item>
-        <title>privacy</title>
-        <link>http://example.org/en/tags/privacy/</link>
-        <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <title>selenium</title>
+        <link>https://www.tandt53.dev/en/tags/selenium/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
         
-        <guid>http://example.org/en/tags/privacy/</guid>
+        <guid>https://www.tandt53.dev/en/tags/selenium/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>DO THE TAN</dc:creator>
         
         
         
@@ -129,15 +129,15 @@
       </item>
       
       <item>
-        <title>shortcodes</title>
-        <link>http://example.org/en/tags/shortcodes/</link>
-        <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <title>selenium-webdriver</title>
+        <link>https://www.tandt53.dev/en/tags/selenium-webdriver/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
         
-        <guid>http://example.org/en/tags/shortcodes/</guid>
+        <guid>https://www.tandt53.dev/en/tags/selenium-webdriver/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>DO THE TAN</dc:creator>
         
         
         
@@ -147,141 +147,159 @@
       </item>
       
       <item>
-        <title>hugo</title>
-        <link>http://example.org/en/tags/hugo/</link>
-        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/en/tags/hugo/</guid>
-        <description></description>
-        
-        <dc:creator>zzossig</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>amoji</title>
-        <link>http://example.org/en/tags/amoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/en/tags/amoji/</guid>
-        <description></description>
-        
-        <dc:creator>zzossig</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>bamoji</title>
-        <link>http://example.org/en/tags/bamoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/en/tags/bamoji/</guid>
-        <description></description>
-        
-        <dc:creator>zzossig</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>emoji</title>
-        <link>http://example.org/en/tags/emoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/en/tags/emoji/</guid>
-        <description></description>
-        
-        <dc:creator>zzossig</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>gamoji</title>
-        <link>http://example.org/en/tags/gamoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/en/tags/gamoji/</guid>
-        <description></description>
-        
-        <dc:creator>zzossig</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>namoji</title>
-        <link>http://example.org/en/tags/namoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/en/tags/namoji/</guid>
-        <description></description>
-        
-        <dc:creator>zzossig</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>diagram</title>
-        <link>http://example.org/en/tags/diagram/</link>
-        <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/en/tags/diagram/</guid>
-        <description></description>
-        
-        <dc:creator>zzossig</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>index</title>
-        <link>http://example.org/en/tags/index/</link>
+        <title>appium</title>
+        <link>https://www.tandt53.dev/en/tags/appium/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
         
-        <guid>http://example.org/en/tags/index/</guid>
+        <guid>https://www.tandt53.dev/en/tags/appium/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>automation</title>
+        <link>https://www.tandt53.dev/en/tags/automation/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/en/tags/automation/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>general</title>
+        <link>https://www.tandt53.dev/en/tags/general/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/en/tags/general/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>java</title>
+        <link>https://www.tandt53.dev/en/tags/java/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/en/tags/java/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>java advance</title>
+        <link>https://www.tandt53.dev/en/tags/java-advance/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/en/tags/java-advance/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>java basic</title>
+        <link>https://www.tandt53.dev/en/tags/java-basic/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/en/tags/java-basic/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>mobile automation</title>
+        <link>https://www.tandt53.dev/en/tags/mobile-automation/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/en/tags/mobile-automation/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>web</title>
+        <link>https://www.tandt53.dev/en/tags/web/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/en/tags/web/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>web automation</title>
+        <link>https://www.tandt53.dev/en/tags/web-automation/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/en/tags/web-automation/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
         
         
         

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on tandt53</title>
+    <link>https://www.tandt53.dev/vi/tags/</link>
+    <description>Recent content in Tags on tandt53</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <managingEditor>dothetan.040490@gmail.com (DO THE TAN)</managingEditor>
+    <webMaster>dothetan.040490@gmail.com (DO THE TAN)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 08 Jul 2021 21:55:21 +0000</lastBuildDate>
+    
+        <atom:link href="https://www.tandt53.dev/vi/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>ChromeDriverService</title>
+        <link>https://www.tandt53.dev/vi/tags/chromedriverservice/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/chromedriverservice/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>driver-service</title>
+        <link>https://www.tandt53.dev/vi/tags/driver-service/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/driver-service/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>EdgeDriverService</title>
+        <link>https://www.tandt53.dev/vi/tags/edgedriverservice/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/edgedriverservice/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>FirefoxDriverService</title>
+        <link>https://www.tandt53.dev/vi/tags/firefoxdriverservice/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/firefoxdriverservice/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>SafariDriverService</title>
+        <link>https://www.tandt53.dev/vi/tags/safaridriverservice/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/safaridriverservice/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>selenium</title>
+        <link>https://www.tandt53.dev/vi/tags/selenium/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/selenium/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>selenium-webdriver</title>
+        <link>https://www.tandt53.dev/vi/tags/selenium-webdriver/</link>
+        <pubDate>Thu, 08 Jul 2021 21:55:21 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/selenium-webdriver/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>appium</title>
+        <link>https://www.tandt53.dev/vi/tags/appium/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/appium/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>auto-test</title>
+        <link>https://www.tandt53.dev/vi/tags/auto-test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/auto-test/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>general</title>
+        <link>https://www.tandt53.dev/vi/tags/general/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/general/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>java</title>
+        <link>https://www.tandt53.dev/vi/tags/java/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/java/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>java advance</title>
+        <link>https://www.tandt53.dev/vi/tags/java-advance/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/java-advance/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>java basic</title>
+        <link>https://www.tandt53.dev/vi/tags/java-basic/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/java-basic/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>mobile automation</title>
+        <link>https://www.tandt53.dev/vi/tags/mobile-automation/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/mobile-automation/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>web</title>
+        <link>https://www.tandt53.dev/vi/tags/web/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/web/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>web automation</title>
+        <link>https://www.tandt53.dev/vi/tags/web-automation/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dothetan.040490@gmail.com (DO THE TAN)</author>
+        
+        <guid>https://www.tandt53.dev/vi/tags/web-automation/</guid>
+        <description></description>
+        
+        <dc:creator>DO THE TAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
