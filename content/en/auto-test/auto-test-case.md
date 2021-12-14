@@ -1,5 +1,5 @@
 ---
-title: "How to write a test case properly in autoamtion?"
+title: "How to write a test case properly in automation?"
 date: 2021-11-26 21:55:21
 description: Bài viết giúp bạn hiểu rõ các việc cần làm khi triển khai 1 test case automation
 tags: ["general", "automation-test", "test-case"]
