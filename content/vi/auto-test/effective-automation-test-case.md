@@ -76,8 +76,8 @@ public void happyCase(){
   int expected = 10;
 
   // Act
-  page.sum(4, 6);
-  resul = page.getResult();
+  page.sum(a, b);
+  result = page.getResult();
 
   // Assert 
   Assert.assertEquals(result, expected)
