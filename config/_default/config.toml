@@ -1,6 +1,6 @@
 baseURL = "https://www.tandt53.netlify.app"
 title = "tandt53.dev"
-theme = "PaperMod"
+theme = "zzo"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
@@ -16,7 +16,7 @@ paginate = 13
 rssLimit = 100
 
 enableGitInfo = false
-googleAnalytics = ""
+googleAnalytics = "UA-259238485-1"
 disableAdsense = false
 
 [markup]

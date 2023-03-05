@@ -212,3 +212,8 @@ commento = false
 [[footerLinks]]
   name = ""
   link = ""
+
+[homeInfoParams]
+  enable = false
+  title = "Welcome to tandt53 blog"
+  content = "This is a blog about my works in automation test journey. I hope you will find something useful here."
