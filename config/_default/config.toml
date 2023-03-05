@@ -1,4 +1,4 @@
-baseURL = "https://www.tandt53.dev"
+baseURL = "https://www.tandt53.netlify.app"
 title = "tandt53.dev"
 theme = "zzo"
 
